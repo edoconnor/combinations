@@ -1,2 +1,2 @@
 # combinations
-python pandas program to find all possible combinations of five golfers with a salary total for each group.# combinations
+Fantasy golf utility ⛳. Finds all combinations of five (5) golfers with total salary for each group. 
