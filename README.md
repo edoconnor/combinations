@@ -1,2 +1,2 @@
 # combinations
-Finds all combinations of five (5) golfers. ⛳
+Finds all combinations and ranks by salary and power rank. ⛳
